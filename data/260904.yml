@@ -7,7 +7,7 @@ about:
   head: bf802ef
   archived: false
   latestVersion: v1.13.0
-  collectedAt: 2026-09-04T19:33:25Z
+  collectedAt: 2026-09-04T20:56:56Z
 timeline:
   created: 2021-12-08
   lastCommit: 2026-01-06
@@ -81,5 +81,28 @@ total:
   openIssue: 8
   commit: 238
 ---
+path: /home/runner/.x-repo/github.com/antonmedv/walk
+collectedAt: 2026-09-04T20:56:57Z
+loc:
+  Go:
+    code: 1570
+    comments: 59
+    blanks: 220
+    files: 12
+  Sh:
+    code: 36
+    comments: 1
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 143
+    blanks: 79
+    files: 3
+total:
+  code: 1621
+  comments: 203
+  blanks: 306
+  files: 16
 ---
 
