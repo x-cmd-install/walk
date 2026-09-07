@@ -5,13 +5,13 @@ about:
   head: bf802ef
   archived: false
   latestVersion: "v1.13.0"
-  collectedAt: 2026-09-07T05:43:34Z
+  collectedAt: 2026-09-07T18:42:10Z
 timeline:
   created: 2021-12-08
   lastCommit: 2026-01-06
   lastRelease: 2025-02-19
 popularity:
-  star: 3638
+  star: 3639
   watcher: 10
   fork: 107
   release: 22
@@ -80,7 +80,7 @@ total:
   commit: 238
 ---
 path: /home/runner/.x-repo/github.com/antonmedv/walk
-collectedAt: 2026-09-07T05:43:36Z
+collectedAt: 2026-09-07T18:42:11Z
 loc:
   Go:
     code: 1570
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:43:37+00:00
+  collectedAt: 2026-09-07T18:42:14+00:00
   platform:
     darwin/arm64:
       name:  walk_darwin_arm64
