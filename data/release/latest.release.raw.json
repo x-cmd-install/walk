@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11717024,
       "digest": null,
-      "download_count": 2698,
+      "download_count": 2700,
       "created_at": "2025-02-19T13:05:05Z",
       "updated_at": "2025-02-19T13:05:10Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11501554,
       "digest": null,
-      "download_count": 3305,
+      "download_count": 3309,
       "created_at": "2025-02-19T13:05:05Z",
       "updated_at": "2025-02-19T13:05:09Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11788887,
       "digest": null,
-      "download_count": 8220,
+      "download_count": 8228,
       "created_at": "2025-02-19T13:05:05Z",
       "updated_at": "2025-02-19T13:05:06Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_linux_amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12355584,
       "digest": null,
-      "download_count": 5950,
+      "download_count": 5955,
       "created_at": "2025-02-19T13:05:05Z",
       "updated_at": "2025-02-19T13:05:09Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_windows_amd64.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11924480,
       "digest": null,
-      "download_count": 358,
+      "download_count": 359,
       "created_at": "2025-02-19T13:05:05Z",
       "updated_at": "2025-02-19T13:05:09Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_windows_arm64.exe"
