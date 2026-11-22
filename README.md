@@ -14,13 +14,13 @@ x install walk
 
 ## Code insight
 
-Total: **1,606** lines of code across **16** files in the top 5 languages.
+Total: **1,732** lines of code across **18** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,570 | 59 | 220 | 12 |
+| Go | 1,696 | 67 | 231 | 14 |
 | Sh | 36 | 1 | 7 | 1 |
-| Markdown | 0 | 143 | 79 | 3 |
+| Markdown | 0 | 144 | 79 | 3 |
 
 ## Source
 
@@ -29,39 +29,39 @@ Total: **1,606** lines of code across **16** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.13.0` (2025-02-19)
-- **Last commit**: 2026-01-06
+- **Latest**: `v1.14.0` (2026-11-21)
+- **Last commit**: 2026-11-21
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 3,652 · **Forks**: 111 · **Open issues**: 89 · **Contributors**: 27
+- **Stars**: 3,653 · **Forks**: 112 · **Open issues**: 90 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 38 · **Open PRs**: 2 · **Closed issues**: 81 · **Open issues**: 8 · **Commits**: 238
+- **Releases**: 23 · **Merged PRs**: 39 · **Open PRs**: 2 · **Closed issues**: 85 · **Open issues**: 5 · **Commits**: 247
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-26 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last720d | 2024-12-01 | 4 | 5 | 2 | 5 | 7 | 55 |
+| 30d | 2026-10-23 | 1 | 0 | 1 | 1 | 0 | 9 |
+| last60d | 2026-09-23 | 1 | 0 | 1 | 1 | 0 | 9 |
+| 90d | 2026-08-24 | 1 | 0 | 1 | 1 | 0 | 9 |
+| last180d | 2026-05-26 | 1 | 0 | 1 | 1 | 0 | 9 |
+| 360d | 2025-11-27 | 1 | 1 | 1 | 2 | 0 | 10 |
+| last720d | 2024-12-02 | 5 | 6 | 2 | 9 | 4 | 64 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [walk_darwin_amd64](https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_darwin_amd64) | 11.2 MiB | `native/darwin/x64` |
-| [walk_darwin_arm64](https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_darwin_arm64) | 11.0 MiB | `native/darwin/arm64` |
-| [walk_linux_amd64](https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_linux_amd64) | 11.2 MiB | `native/linux/x64` |
-| [walk_linux_arm64](https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_linux_arm64) | 11.0 MiB | `native/linux/arm64` |
-| [walk_windows_amd64.exe](https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_windows_amd64.exe) | 11.8 MiB | `native/win/x64` |
-| [walk_windows_arm64.exe](https://github.com/antonmedv/walk/releases/download/v1.13.0/walk_windows_arm64.exe) | 11.4 MiB | `native/win/arm64` |
+| [walk_darwin_amd64](https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_darwin_amd64) | 12.9 MiB | `native/darwin/x64` |
+| [walk_darwin_arm64](https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_darwin_arm64) | 12.4 MiB | `native/darwin/arm64` |
+| [walk_linux_amd64](https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_linux_amd64) | 12.9 MiB | `native/linux/x64` |
+| [walk_linux_arm64](https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_linux_arm64) | 12.2 MiB | `native/linux/arm64` |
+| [walk_windows_amd64.exe](https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_windows_amd64.exe) | 13.3 MiB | `native/win/x64` |
+| [walk_windows_arm64.exe](https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_windows_arm64.exe) | 12.4 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for walk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:46:23Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:39:09Z._
