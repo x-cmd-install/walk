@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13567104,
       "digest": "sha256:3e365bfd9da88a577203cfc0c9d665b110a0caaa6e5287c414ac49bb8326b6a3",
-      "download_count": 19,
+      "download_count": 32,
       "created_at": "2026-11-21T14:16:30Z",
       "updated_at": "2026-11-21T14:16:33Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12974418,
       "digest": "sha256:92c92679092215b3fdf9254b303145d5fc79050d30bd98212835682c586600c6",
-      "download_count": 20,
+      "download_count": 35,
       "created_at": "2026-11-21T14:16:30Z",
       "updated_at": "2026-11-21T14:16:33Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13499744,
       "digest": "sha256:00d2555d0cc3d5cee71f89724f57150e3ebc4ed1c38fa9da78023e76744dbd3b",
-      "download_count": 58,
+      "download_count": 95,
       "created_at": "2026-11-21T14:16:30Z",
       "updated_at": "2026-11-21T14:16:33Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_linux_amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12818444,
       "digest": "sha256:3cb402abb7a281dda2933739afc8d4c7289097f75a162a5f246a61470acb1f0e",
-      "download_count": 20,
+      "download_count": 24,
       "created_at": "2026-11-21T14:16:30Z",
       "updated_at": "2026-11-21T14:16:33Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_linux_arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13912576,
       "digest": "sha256:f064dc380bbaae9ee0e5785ad5e40754d1679187b4e205dc07e21aa457b469dd",
-      "download_count": 58,
+      "download_count": 86,
       "created_at": "2026-11-21T14:16:30Z",
       "updated_at": "2026-11-21T14:16:33Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_windows_amd64.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13044224,
       "digest": "sha256:b6ed78ff461c2e66ca777bdc1ea77af78e27739b0f5224031e0f8c90a878c868",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-11-21T14:16:30Z",
       "updated_at": "2026-11-21T14:16:33Z",
       "browser_download_url": "https://github.com/antonmedv/walk/releases/download/v1.14.0/walk_windows_arm64.exe"
